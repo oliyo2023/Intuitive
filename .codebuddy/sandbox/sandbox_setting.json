@@ -1,0 +1,20 @@
+{
+  "path": "e:\\project\\Intuitive\\build\\web",
+  "desc": "AI Image Generator Flutter Web App with Gemini and Supabase integration",
+  "id": "f5cb7eec0a5f438bb891100a53229f52",
+  "data": {
+    "spaceKey": "f5cb7eec0a5f438bb891100a53229f52",
+    "connections": {
+      "webIDE": "https://f5cb7eec0a5f438bb891100a53229f52.ap-singapore.cloudstudio.club",
+      "preview": "https://f5cb7eec0a5f438bb891100a53229f52--{port}.ap-singapore.cloudstudio.club",
+      "api": "https://f5cb7eec0a5f438bb891100a53229f52--api.ap-singapore.cloudstudio.club",
+      "pty": "https://f5cb7eec0a5f438bb891100a53229f52--pty.ap-singapore.cloudstudio.club"
+    }
+  },
+  "config": {
+    "api": "https://f5cb7eec0a5f438bb891100a53229f52--api.ap-singapore.cloudstudio.club",
+    "pty": "https://f5cb7eec0a5f438bb891100a53229f52--pty.ap-singapore.cloudstudio.club",
+    "region": "ap-shanghai",
+    "spaceKey": "f5cb7eec0a5f438bb891100a53229f52"
+  }
+}
